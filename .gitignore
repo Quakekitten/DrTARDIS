@@ -1,5 +1,8 @@
 minecraft/asm/*
 minecraft/mods/Dalek Mod/data/*
 minecraft/reports/*
+minecraft/config/AppliedEnergistics2/recipes/generated/*
+minecraft/config/AppliedEnergistics2/generated-recipes/*
 minecraft/usercache.json
 minecraft/usernamecache.json
+minecraft/mods/TheBetweenlands-1.7.10-1.0.0-alpha.1-build.123-universal.jar
