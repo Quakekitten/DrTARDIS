@@ -6,3 +6,6 @@ minecraft/config/AppliedEnergistics2/generated-recipes/*
 minecraft/usercache.json
 minecraft/usernamecache.json
 minecraft/mods/TheBetweenlands-1.7.10-1.0.0-alpha.1-build.123-universal.jar
+minecraft/journeymap/*
+minecraft/mods/carpentersblocks/*
+minecraft/saves/*
