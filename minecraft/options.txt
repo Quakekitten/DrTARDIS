@@ -4,7 +4,7 @@ fov:0.0
 gamma:1.0
 saturation:0.0
 renderDistance:12
-guiScale:0
+guiScale:2
 particles:0
 bobView:true
 anaglyph3d:false
@@ -112,6 +112,8 @@ key_key.weedwoodRowboat.oar.stroke.right:46
 key_key.weedwoodRowboat.oar.square.left:44
 key_key.weedwoodRowboat.oar.square.right:47
 key_key.craftingGrid:76
+key_key.cofh.empower:47
+key_key.cofh.multimode:46
 key_railcraft.keybind.loco.faster:52
 key_railcraft.keybind.loco.slower:51
 key_railcraft.keybind.loco.mode:50
